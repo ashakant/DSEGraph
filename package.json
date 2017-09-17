@@ -1,0 +1,23 @@
+{
+  "name": "dsegraph",
+  "version": "1.0.0",
+  "description": "A sample prototypes apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashakant/DSEGraph.git"
+  },
+  "author": "Ashakant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashakant/DSEGraph/issues"
+  },
+  "homepage": "https://github.com/ashakant/DSEGraph#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+   
+  }
+}
